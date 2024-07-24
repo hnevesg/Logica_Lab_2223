@@ -7,6 +7,6 @@ Componentes
     ./
         - Logica Practicas.pdf -> PDF con el guión de las prácticas de lógica
     
-    ./Partes 1 y 2 -> Directorio con las soluciones de la prueba de Boole y Tarski's world
+        ./Partes 1 y 2 -> Directorio con las soluciones de la prueba de Boole y Tarski's world
 
-    ./Parte 3 -> Directorio con ejercicios de Prolog
+        ./Parte 3 -> Directorio con ejercicios de Prolog
