@@ -1,0 +1,15 @@
+
+1. Boole
+
+   a) Conector principal---|
+                 ((P→Q)→P) → Q
+      El enunciado se cumple siempre, excepto cuando 
+      se cumple P, pero no Q. Por ello, es una contingencia.
+
+   b) Alfabeto
+      - hay control de nacimientos   -- P
+      - poblacion crece sin limite   -- Q
+      - aumenta el indice de pobreza -- R
+      En todos los casos donde ambas premisas se cumplen, 
+      la conclusion tambien se cumple. Por ello, la 
+      conclusion es consecuencia logica de las premisas

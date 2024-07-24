@@ -1,0 +1,16 @@
+
+2. Tarsky
+
+   c) Traduccion:
+      b y c estan en la misma fila. a y d estan en la misma fila. 
+      d y f estan en la misma fila. a esta a la izquierda de b. 
+      por ello f esta a la izquierda de c.
+
+   d) Traduccion:
+        para todo bloque x, x es un cubo si y solo si x tiene la misma forma que c.
+        por lo tanto, c es un cubo.
+      Razonamiento:
+        Esto implica que para todo bloque x, si x es un cubo entonces x tiene la 
+        misma forma que c, que, dicho de otra forma, es como decir que para todo 
+        bloque x, si x es un cubo, entonces ese cubo tiene la misma forma que c, 
+        por lo que c debera ser tambien un cubo.
